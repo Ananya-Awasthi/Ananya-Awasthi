@@ -1,5 +1,6 @@
-# 💫 About Me:
-👋 Hi, I'm Ananya Awasthi  | 📊 B.Tech CSE Data Science Student<br>📈 Interested in Data Science, Machine Learning, Analytics & Backend Systems  <br>💡 Curious mind, clean code, meaningful results<br>
+# 💫 Hey , I'm Ananya Awasthi
+<div align="cener">
+📊 B.Tech CSE Data Science Student<br>📈 Interested in Data Science, Machine Learning, Analytics & Backend Systems  <br>💡 Curious mind, clean code, meaningful results<br>
 
 
 ## 🌐 Socials:
@@ -16,3 +17,4 @@
 [![](https://visitcount.itsvg.in/api?id=Ananya-Awasthi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
